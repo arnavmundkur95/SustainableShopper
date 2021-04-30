@@ -1,7 +1,7 @@
 # SustainableShopper
 
-This thesis covers the design of a smartphone application which supports its users in making sustainable choices
-while preparing their grocery lists. The Persuasive System Design model (PSD) by Oinas-Kukkonen & Harjumaa (2009)
+This smartphone application is the result of my master thesis which focused on supporting its users in making sustainable choices
+while preparing grocery lists. The Persuasive System Design model (PSD) by Oinas-Kukkonen & Harjumaa (2009)
 is used as a framework to analyze 25 behavior change systems from the domains of sustainable food consumption, food 
 consumption and eco-feedback applications for energy & water consumption. The PSD model is used to categorize the
 system features in each of the 25 systems to identify usage trends of system features. It was found that the effects
