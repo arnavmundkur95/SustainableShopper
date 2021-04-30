@@ -22,3 +22,9 @@ supporting agency in behavior change, and the individuality of motivation.
 
 
 ![image](https://user-images.githubusercontent.com/39627628/116762932-4f3aec80-aa1c-11eb-913b-879a6bea0aa4.png)
+
+![image](https://user-images.githubusercontent.com/39627628/116762966-6a0d6100-aa1c-11eb-850b-4cc4d28770c4.png)
+
+![image](https://user-images.githubusercontent.com/39627628/116762992-7abdd700-aa1c-11eb-956a-09e798c16d07.png)
+
+
