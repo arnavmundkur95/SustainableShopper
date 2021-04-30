@@ -19,3 +19,6 @@ The findings from the field study highlight the uniqueness of users, how a one-s
 not prove most effective, and the complications of using Normative Influence and personal goal setting features to support behavior
 change. It also highlights the importance of Personalization and Tailoring in behavior change systems, reducing effort for and
 supporting agency in behavior change, and the individuality of motivation.
+
+
+![image](https://user-images.githubusercontent.com/39627628/116762932-4f3aec80-aa1c-11eb-913b-879a6bea0aa4.png)
